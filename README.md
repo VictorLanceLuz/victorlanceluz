@@ -8,7 +8,7 @@ Hardware Engineering Co-op @ Arlo Technologies.
 Software Video Compression Co-op @ Intel Corporation.  
 
 - 🔭 I’m currently working on embedded systems in the mining industry.
-- 🌱 I’m currently learning modern C++.
+- 🌱 I’m currently learning modern C++ and Python 3.
 - 👯 I’m looking to collaborate on project portfolio building.
 - 📫 How to reach me: add a @outlook.com suffix to my GitHub username.
 - 😄 Pronouns: he/him
